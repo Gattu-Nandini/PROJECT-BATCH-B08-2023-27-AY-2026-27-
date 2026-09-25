@@ -9,8 +9,7 @@
 |:------|:-----------|:-------|:------------|:----|
 |234G1A05A8|U Nandini|234G1A05A8@srit.ac.in|8977430823|![nandini](img1.png)|
 |234G1A05G2|K Swathi|234G1A05G2@srit.ac.in|7989566008|![Swathi](img-2.png)|
-
-
+|234G1A05A5|G Nandini|234G1A05A5@srit.ac.in|7780180864|![Nandini G](img.jpeg)|
 
 
 
